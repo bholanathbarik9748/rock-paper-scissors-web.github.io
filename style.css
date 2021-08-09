@@ -38,6 +38,12 @@ body {
     background-color: #F98C02;
 }
 
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-left: 70px;
+}
+
 form {
     position: absolute;
     top: 0;
